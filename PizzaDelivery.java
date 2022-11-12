@@ -21,24 +21,6 @@ public class PizzaDelivery {
             System.out.println(i+". "+toppings[i]);
 
         }
-         
-        /** Task 4 – Pick up the user's toppings and store them in the array.
-         *  
-         *  See the workbook article for more detail  
-         * 
-         */
-
-        /** Task 5 –  Loop through the length of the array and print each topping
-         *  
-         *  See the workbook article for more detail   
-         * 
-         */
-
-        /** Task 6 –  Confirm the order
-         *  
-         *  See the workbook article for more detail  
-         * 
-         */
 
         scan.close();
 
