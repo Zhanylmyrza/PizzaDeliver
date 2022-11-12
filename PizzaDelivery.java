@@ -9,6 +9,9 @@ public class PizzaDelivery {
 
         String[]toppings=new String [3];
         
+//         int numToppings = scan.nextInt(); scan.nextLine();
+//         String[] toppings = new String[numToppings]; так писать предпочтителюнее и правильнее конечно)
+        
         System.out.println("Great, enter each topping!");
         
         for(int i=0; i<toppings.length; i++){
